@@ -15,6 +15,7 @@ public class Operaciones {
     double resultado =1;
         for(int i=1 ; i<=exp; i++)
          resultado *=base;
+        
  return resultado;   
 }
     
