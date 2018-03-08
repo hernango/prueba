@@ -16,7 +16,12 @@ public class Operaciones {
         for(int i=1 ; i<=exp; i++)
          resultado *=base;
         
+        
  return resultado;   
 }
+    
+    public void rt(){
+        System.out.println("prueba.Operaciones.rt()");
+    }
     
 }
