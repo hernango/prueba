@@ -24,5 +24,5 @@ public class Operaciones {
         System.out.println("prueba.Operaciones.rt()");
     }
     
-    public void nuev0(){}
+    public void nuev0(){// algo que necesito guardar}
 }
